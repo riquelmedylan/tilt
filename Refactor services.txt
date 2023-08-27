@@ -1,0 +1,11 @@
+Credit Movement Service
+
+-- Mucha anidacion con veriables o metodos privados. Confuso de testear
+
+Navigation Service
+
+-- ver la funcion Back()
+
+SecondFactorService
+
+-- executeBiometria
